@@ -44,14 +44,18 @@ The data was acquired from this site. Contributors evaluated tweets about multip
 ### EDA
  - Sentiment distribution
 ![download](https://github.com/user-attachments/assets/cc8f74a2-8266-4661-a515-ced39e221172)
+
  - Tweet length distribution
 ![download](https://github.com/user-attachments/assets/234ec6e0-b0da-40ff-a604-37a0fb73fa78)
+
  - Common words across tweets
 ![download](https://github.com/user-attachments/assets/2ba9b72c-464c-4ab1-815e-6da77b9ab434)
+
  - Wordcloud for sentiment categories
 ![download](https://github.com/user-attachments/assets/5de7b14a-5032-46e6-a1d2-e617c0faaaac)
 ![download](https://github.com/user-attachments/assets/2e8b1f30-ff35-4a60-a8e4-039762d8efae)
 ![download](https://github.com/user-attachments/assets/0d452974-c602-4aa0-af7e-4da79202e1f3)
+
  - Sentiment distribution by product
 ![download](https://github.com/user-attachments/assets/54683b34-4a60-4f78-a1cd-d1c9a96bb65f)
 
