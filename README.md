@@ -66,7 +66,7 @@ The data was acquired from this site. Contributors evaluated tweets about multip
 
 
 ### Modelling and Evaluation
-We chose to use a few models, which included:
+We chose to use a few models for classification, which included:
  - Logistic Regression.
 
 ![download](https://github.com/user-attachments/assets/d5de0e9d-a674-4035-bd15-ed18811710e9)
@@ -78,4 +78,3 @@ We chose to use a few models, which included:
  - Random Forest
 
 ![download](https://github.com/user-attachments/assets/157af909-9bef-46aa-a309-f8c52e0aa4c4)
-
