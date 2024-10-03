@@ -64,3 +64,17 @@ The data was acquired from this site. Contributors evaluated tweets about multip
 
 ![download](https://github.com/user-attachments/assets/54683b34-4a60-4f78-a1cd-d1c9a96bb65f)
 
+
+### Modelling and Evaluation
+We chose to use a few models, which included:
+ - Logistic Regression.
+
+![download](https://github.com/user-attachments/assets/d5de0e9d-a674-4035-bd15-ed18811710e9)
+
+ - Multinomial Naive Bayes
+
+![download](https://github.com/user-attachments/assets/ea039dd9-9e0a-4c3f-9816-181fabd317f8)
+
+ - Random Forest
+![download](https://github.com/user-attachments/assets/157af909-9bef-46aa-a309-f8c52e0aa4c4)
+
