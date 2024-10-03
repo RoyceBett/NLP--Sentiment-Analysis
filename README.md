@@ -78,3 +78,24 @@ We chose to use a few models for classification, which included:
  - Random Forest
 
 ![download](https://github.com/user-attachments/assets/157af909-9bef-46aa-a309-f8c52e0aa4c4)
+
+### Precision, Recall and F1-Score Comparison
+
+![download](https://github.com/user-attachments/assets/f28ac924-4cca-4efd-95ec-1ffcca326f15)
+
+### Summary
+The goal was to build a machine learning model capable of classifying the sentiment of tweets related to various tech products. After analyzing and processing a dataset of tweets, we implemented and evaluated several machine learning models, focusing on improving the model’s ability to classify positive and negative sentiments effectively.
+
+### Conclusion
+ - The majority of tweets related to tech products exhibited positive sentiments, reflecting strong brand perceptions for the products analyzed.
+ - The Random Forest classifier emerged as the best-performing model with balanced precision and recall, making it well-suited for real-world application in sentiment classification.
+ - Although the model performed well, the class imbalance (more neutral and positive tweets) suggests the need for careful data handling to maintain performance across all classes, particularly for the minority negative class.
+
+### Recommendations
+ - Given that positive sentiment dominates the data, brands can leverage this in marketing campaigns by highlighting the most favorable topics (e.g., product innovation, customer satisfaction).
+ - Negative sentiment still exists and revolves around specific issues. Addressing common negative themes like battery performance for Apple or map service issues for Google can help improve overall perception.
+ - Expand the analysis to other product categories or competitor products to gain broader insights into customer sentiment across the tech industry.
+
+### Next Steps
+- Gather additional tweet data to balance the class distribution, especially for the underrepresented negative sentiment class, which can improve model training and reduce bias toward neutral/positive tweets.
+- Deploy the fine-tuned Random Forest model in production for real-time monitoring of social media sentiment, allowing companies to respond swiftly to customer feedback and emerging trends.
