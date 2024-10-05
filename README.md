@@ -34,7 +34,7 @@ The foremost issue we need to address the need for a system to more clearly and 
 - *Precision, Recall, and F1 Score*: These metrics measure the model's ability to balance precision(correctly classification) and recall (identifying all positive/negative sentiments).
 
 ### Data Understanding
-The data was acquired from this site. Contributors evaluated tweets about multiple brands and products. The crowd was asked if the tweet expressed positive, negative, or no emotion towards a brand and/or product. If some emotion was expressed they were also asked to say which brand or product was the target of that emotion.
+The data was acquired from [this site]((https://data.world/crowdflower/brands-and-product-emotions)). Contributors evaluated tweets about multiple brands and products. The crowd was asked if the tweet expressed positive, negative, or no emotion towards a brand and/or product. If some emotion was expressed they were also asked to say which brand or product was the target of that emotion.
 
 ### Data Preparation
  - Checking for duplicates
